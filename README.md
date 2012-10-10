@@ -1,4 +1,4 @@
 osx_dragtablecelldemo
 =====================
 
-NSTableVie行的拖拽
+NSTableView行的拖拽
